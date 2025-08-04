@@ -21,7 +21,7 @@
 - 📫 How to reach me **amaankondkar6@gmail.com**
 
 - ⚡ Fun fact **I build websites for fun and turn ideas into clicks!**
-- My portfolio link https://amaankondkar.in/
+- Checkout My Portfolio https://amaankondkar.in/
 
 <!-- GIF and Text Side by Side -->
 <table>
